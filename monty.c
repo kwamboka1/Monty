@@ -37,7 +37,7 @@ void free_all(void)
  * @argv: array of string containing argc
  * Return: EXIT_SUCCESS or EXIT_FAILURE
  */
-int main(int argc, int **argv)
+int main(int argc, char **argv)
 {
 	stack_t *head;
 	stack_init(&head);

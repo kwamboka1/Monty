@@ -74,4 +74,6 @@ void instruction_push(stack_t **stack, unsigned int line_number);
 void instruction_pall(stack_t **stack, unsigned int line_number);
 
 int _strtol(char *num_string, unsigned int line_number);
+
+
 #endif
