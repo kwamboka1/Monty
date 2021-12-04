@@ -31,8 +31,8 @@ $
 ```
 
 ## Technologies
-* Interpreter was written with C language
-* C files are compiled using `gcc 4.8.4`
+* Interpreter is written in C language
+* C files are compiled using `gcc`
 * C files are written according to the C89 standard
 * Tested on Ubuntu 20.04 LTS
 
