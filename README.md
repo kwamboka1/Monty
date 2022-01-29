@@ -1,4 +1,4 @@
-# Monty[![Licence: MIT](https://github.com/kwamboka1/monty/blob/master/LICENSE)
+# Monty[Licence: MIT](https://github.com/kwamboka1/monty/blob/master/LICENSE)
 
 `monty` is an interpreter of Monty ByteCodes files, which is a scripting language just like Python.
 
